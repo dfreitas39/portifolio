@@ -1,0 +1,31 @@
+
+/* Estilo geral da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+/* Navegação principal */
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    padding-left: 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Conteúdo principal */
+main {
+    padding: 20px;
+}
